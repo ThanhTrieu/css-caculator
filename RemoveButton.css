@@ -1,0 +1,15 @@
+.remove-btn {
+  height: 2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1em;
+  background-color: #DDD;
+  color: #293944;
+  flex: 1;
+  outline: 1px solid #293944;
+}
+
+.remove-btn:active:hover {
+  background-color: #C9C9C9;
+}
